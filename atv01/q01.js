@@ -5,8 +5,8 @@
 var v1;
 v1 = Number (prompt ()); */
 
-const prompt = require("prompt-sync")();
 
+const prompt = require("prompt-sync")();
 let v1 = prompt('primeiro num: '); 
 let v2 = prompt('segundo num: ');
 let v3 = prompt('terceiro num: ');
